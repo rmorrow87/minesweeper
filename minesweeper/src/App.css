@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+}
+
+.cell.revealed {
+  background: #f3f3f3;
+  cursor: default;
+}
+

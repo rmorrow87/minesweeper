@@ -1,0 +1,14 @@
+.cell {
+  width: 30px;
+  height: 30px;
+  border: 1px solid #ddd;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.cell.revealed {
+  background: #f3f3f3;
+  cursor: default;
+}
